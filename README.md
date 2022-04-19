@@ -1,1 +1,1 @@
-#Script simples para exibir a quantidade de usuários onlines num servidor linux.
+# Script simples para exibir a quantidade de usuários onlines num servidor linux.
